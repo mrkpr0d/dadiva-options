@@ -13,6 +13,7 @@ Instalación:
 - Configura la categoría de productos en la página de configuración del plugin en el menú "Dadiva Store" de Wordpress
 
 Uso:
+
 Los clientes verán la opción de marco en el proceso de compra y podrán ver el precio afectado por la opción elegida.
 
 Soporte
